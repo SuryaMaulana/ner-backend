@@ -1,0 +1,12 @@
+fastapi
+pydantic
+pandas
+nltk
+datasets
+dill
+numpy
+requests
+fuzzywuzzy
+networkx
+scikit-learn
+collections
